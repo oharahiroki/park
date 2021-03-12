@@ -1,0 +1,248 @@
+@charset "UTF-8";
+
+
+@media(max-width:1200px) {
+
+    .facilityarea {
+        width: auto;
+        margin: 0 auto;
+    }
+
+    .facilityarea img {
+        width: 250px;
+
+    }
+}
+
+
+
+
+@media(max-width:1100px) {
+
+    .animaltext1 {
+        font-size: 1.5em;
+    }
+
+}
+
+@media(max-width:1050px) {
+    .adress {
+        padding-left: 0px;
+    }
+
+    @media(max-width:950px) {
+        .sliderWide {
+            width: 850px;
+            height: 500px;
+        }
+
+        .photos {
+            width: 400px;
+            height: 400px;
+        }
+
+        .animal_text {
+            width: 400px;
+            height: 400px;
+        }
+
+    }
+
+    @media(max-width:900px) {
+        .container-calendar {
+            width: 300px;
+        }
+    }
+
+
+
+    @media(max-width:850px) {
+        .sliderWide {
+            width: 650px;
+            height: 350px;
+        }
+
+        .photos {
+            width: 350px;
+            height: 350px;
+        }
+
+        .animal_text {
+            width: 350px;
+            height: 350px;
+        }
+
+    }
+
+
+    @media(max-width:800px) {
+        .facilityarea {
+            width: auto;
+            margin: 0 auto;
+        }
+
+        .facilityarea img {
+            width: 180px;
+
+        }
+
+    }
+
+
+    @media(max-width:750px) {
+
+        .photos {
+            width: 300px;
+            height: 300px;
+        }
+
+        .animal_text {
+            width: 300px;
+            height: 300px;
+        }
+
+
+        .facilityarea {
+            width: auto;
+            height: auto;
+            margin: 0 auto;
+        }
+
+        .facilityarea img {
+            width: 150px;
+
+        }
+
+    }
+
+
+    @media(max-width:750px) {
+        .animals figure {
+            display: block;
+            text-align: center;
+        }
+
+        .animal_text {
+            margin: 0 auto;
+        }
+
+        .animaltext1 {
+            font-size: 1.2em;
+            font-weight: 500;
+        }
+
+        .omiyagearea {
+            display: block;
+
+        }
+
+        .omiyagearea figure {
+            text-align: center;
+        }
+
+        .table {
+            display: block;
+        }
+
+        .container-calendar {
+            width: 300px;
+            margin: 10px auto 0;
+        }
+
+        .border-table {
+            margin: 0 auto;
+        }
+
+        .accessarea {
+            display: block;
+            text-align: center;
+        }
+
+        .accesstext {
+            text-align: center;
+        }
+
+        iframe {
+            width: 500px;
+
+        }
+    }
+
+
+    @media(max-width:650px) {
+
+        .sliderWide {
+            width: 500px;
+            height: 350px;
+        }
+
+    }
+
+
+    @media(max-width:600px) {
+
+        .photos {
+            width: 250px;
+            height: 250px;
+        }
+
+        .animal_text {
+            width: 250px;
+            height: 250px;
+        }
+
+        .facilityarea img {
+            width: 130px;
+        }
+    }
+
+
+
+
+    @media(max-width:550px) {
+
+
+
+        .facilityarea img {
+            width: 120px;
+        }
+    }
+
+    @media(max-width:500px) {
+
+        .sliderWide {
+
+            display: none;
+        }
+
+        .p {
+            text-align: center;
+            display: block;
+        }
+
+        .p img {
+            width: 400px;
+            height: 300px;
+        }
+
+        .facilityarea img {
+            width: 100px;
+        }
+
+        iframe {
+            width: 350px;
+
+        }
+    }
+
+    @media(max-width:400px) {
+        .facilityarea img {
+            width: 80px;
+        }
+
+        iframe {
+            width: 320px;
+            height: 200px;
+
+        }
+    }
